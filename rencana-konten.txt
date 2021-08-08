@@ -4,3 +4,4 @@ tes
 vue 
 larevel
 python
+react jd
