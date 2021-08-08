@@ -1,2 +1,3 @@
 tes
 -membuat vlog
+-membuat aplikasi
