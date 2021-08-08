@@ -1,7 +1,7 @@
 tes
--membuat vlog
 -membuat aplikasi
 vue 
 larevel
 python
 react jd
+
