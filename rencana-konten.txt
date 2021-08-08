@@ -1,4 +1,7 @@
 tes
 -membuat aplikasi
-angular 
+vue 
 larevel
+python
+react jd
+
