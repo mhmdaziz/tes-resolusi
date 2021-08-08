@@ -1,3 +1,4 @@
 tes
--membuat vlog
 -membuat aplikasi
+angular 
+larevel
